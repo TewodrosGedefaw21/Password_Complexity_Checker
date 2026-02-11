@@ -27,6 +27,7 @@ No external libraries required.
 1. Run the script:
 
 **bash**
+
 python password_checker.py
 
 2. Enter your password when prompted:
